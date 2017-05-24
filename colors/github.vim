@@ -73,5 +73,6 @@ hi htmlTagN     gui=BOLD cterm=BOLD
 hi Cursor       guifg=#F8F8FF ctermfg=231  guibg=#444454 ctermbg=238  gui=NONE cterm=NONE
 hi CursorLine   guibg=#D8D8DD ctermbg=253  gui=NONE cterm=NONE
 hi CursorColumn guibg=#D8D8DD ctermbg=253  gui=NONE cterm=NONE
+hi ExtraWhitespace guibg=#FF1100 ctermbg=red gui=NONE cterm=NONE
 
 hi link rubyStringDelimiter String
